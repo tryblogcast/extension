@@ -1,0 +1,9 @@
+{
+  "name": "blogcast-chrome",
+  "version": "0.0.1",
+  "description": "Blogcast chrome extension",
+  "repository": "https://github.com/tryblogcast/extension",
+  "author": "Miguel Piedrafita <soy@miguelpiedrafita.com>",
+  "license": "MIT",
+  "private": true
+}
